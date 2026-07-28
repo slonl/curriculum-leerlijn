@@ -1,0 +1,40 @@
+{
+	"@context": {
+		"leerlijnen": "http://opendata.slo.nl/curriculum/schemas/leerlijn.jsonld",
+		"id": {
+			"@id": "@id"
+		},
+		"title": {
+			"@id": "http://purl.org/dc/terms/title",
+			"@type": "@id"
+		},
+		"description": {
+			"@id": "http://purl.org/dc/terms/description",
+			"@type": "@id"
+		},
+		"leerlijn": {
+			"@id": "leerlijnen:#leerlijn"
+		},
+		"leerlijn_focus": {
+			"@id": "leerlijnen:#leerlijn_focus"
+		},
+		"leerlijn_inhoudsblok": {
+			"@id": "leerlijnen:#leerlijn_inhoudsblok"
+		},
+		"leerlijn_subinhoudsblok": {
+			"@id": "leerlijnen:#leerlijn_subinhoudsblok"
+		},
+		"leerlijn_inhoudsrij": {
+			"@id": "leerlijnen:#leerlijn_inhoudsrij"
+		},
+		"leerlijn_inhoud": {
+			"@id": "leerlijnen:#leerlijn_inhoud"
+		},
+		"leerlijn_voorbeeld": {
+			"@id": "leerlijnen:#leerlijn_voorbeeld"
+		},
+		"deprecated": {
+			"@id": "leerlijnen:#deprecated"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "name": "curriculum-leerlijn",
+  "version": "1.0.0",
+  "description": "Curriculum Context: Leerlijnen",
+  "main": "context.json",
+  "scripts": {
+    "test": "node test/test.mjs"
+  },
+  "author": "SLO",
+  "license": "MIT",
+  "devDependencies": {
+    "curriculum-js": "^0.3.7"
+  }
+}

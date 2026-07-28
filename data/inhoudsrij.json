@@ -1,0 +1,302 @@
+[
+	{
+		"prefix": "1",
+		"title": "Beschrijven hoe atomen zijn opgebouwd: atoomkern (protonen en neutronen) en elektronenwolk",
+		"id": "980bf8dd-afc3-4d15-98a0-b7b8f24af0aa",
+		"leerlijn_inhoud_id": [
+			"a9be1012-b9ab-4ec0-a210-4a3b1273d7b0",
+			"15d52253-62cd-4b76-a776-78346ffca58c",
+			"9a5b1b22-67ea-4c95-a730-6c9279e3696f",
+			"dbda7a3e-063d-4530-a2cf-1a3c1993125e",
+			"96dc8ae5-bb86-44d1-b84a-5d6bd9e39652",
+			"1ce89274-af07-4145-9184-d81bcb77a330",
+			"a3b8ac3c-54ce-4893-acc6-9f0057416963"
+		]
+	},
+	{
+		"prefix": "2",
+		"title": "Analyseren van verschillen in bouw en eigenschappen van atoomsoorten (aantal protonen en...",
+		"id": "8a1d6b04-b5e8-4037-8b59-3cebc0888503",
+		"leerlijn_inhoud_id": [
+			"3cf0153a-2c4b-4156-b5a1-65533fe918c5",
+			"92873cd0-d103-4096-aeda-5b8a41650f26",
+			"2299bd87-72e2-4f21-bd67-77c89b2a8986",
+			"0f6a63e6-f9e5-47aa-a856-89abd26970d9",
+			"3eb50995-5f8d-41fc-977c-19455ee0d837",
+			"d1c180f8-9375-4ad7-97cb-44ee6a620da8",
+			"4c547b97-c503-4916-8b81-a880a57688b6"
+		]
+	},
+	{
+		"prefix": "3",
+		"title": "Beschrijven van de waarde en bruikbaarheid van modellen over de bouw van materie: de vier...",
+		"id": "3050739b-188e-43ac-b091-3029de3ac372",
+		"leerlijn_inhoud_id": [
+			"9e5f626c-8603-4d71-86a8-7db6ce039730",
+			"7b0eb253-fbcc-4240-acba-7b23b07fa77b",
+			"8c407a15-3576-4e02-8254-58351d8fe46b",
+			"4af9fe84-58c2-4ea7-a9ac-ef334564000f",
+			"17c6c21e-0123-45ca-bed5-f16c2dae28f0",
+			"7d0e667f-c017-40b7-9bc3-8ab169c7f509"
+		]
+	},
+	{
+		"prefix": "1",
+		"title": "Gebruiken stofeigenschappen (smelt-/kookpunt, dichtheid, oplosbaarheid) om stoffen te...",
+		"id": "88a7bf89-ae7c-4375-aed3-31927e3b2025",
+		"leerlijn_inhoud_id": [
+			"9d718994-2da9-4de4-bda2-69eb2f5d6ea7",
+			"ddb5d0c2-9584-4d43-bd9d-48a1838cf515",
+			"189e418d-eb9a-4e14-a967-7f098be4ec1f",
+			"1bae695e-9364-4ad7-9525-f77291199511",
+			"843cb9a4-417e-4757-b239-30a5eecdafcf",
+			"4180abc4-78cd-4553-a232-f0ecd4d0203b",
+			"731314fb-c4f3-4e83-9a06-072c3b5d1ac0"
+		]
+	},
+	{
+		"prefix": "2",
+		"title": "Onderscheiden zuivere stof, oplossing en mengsel met het deeltjesmodel en met behulp van een...",
+		"id": "0e76672e-cc75-4cb2-a861-1355b3a3cd87",
+		"leerlijn_inhoud_id": [
+			"cbb79229-492a-4ac2-8c48-a0b5e6fabbac",
+			"9d84b08a-4ea7-4cd8-a0ba-75234e7f31bd",
+			"31e767b4-16b7-4b98-ae52-ec78e45eb7e9",
+			"ad06bf90-2228-43f8-898f-99823b9ba8cf",
+			"d221d138-ab5c-44a1-805d-109da0f3496d",
+			"11ea0a64-499c-44c5-aea4-1b221a11650d",
+			"0dfa625e-66fa-4a00-b24a-5ffba8a7d755"
+		]
+	},
+	{
+		"prefix": "3",
+		"title": "Leggen het verband tussen samenstelling, deeltjesmodel en meetwaarden (bijv",
+		"id": "d7cda8f8-dab3-4a95-9d11-0fbb2b0119bf",
+		"leerlijn_inhoud_id": [
+			"f12fef18-ec19-44d9-bd5a-8dbd92de2b94",
+			"804a2b05-386d-4809-aaab-b0a3e042cf63",
+			"4c7a530b-5a08-4125-85f2-a1e7811e6636",
+			"1f3efb47-138b-4d4f-8cff-1f139c5e9ffc",
+			"3fd77490-b09f-4773-bacd-4ac082fc6221"
+		]
+	},
+	{
+		"prefix": "1",
+		"title": "Relateren chemische veranderingen aan hergroepering van atomen, waarbij het totaal aantal atomen...",
+		"id": "90fa0c37-1698-4cf4-b67e-898c5d1cd8e4",
+		"leerlijn_inhoud_id": [
+			"c0411a80-f1f2-496e-9c6d-fe38c4c59432",
+			"3155511f-5e06-4a37-8b3c-319fb0b7bf47",
+			"dba31495-15cf-4ae3-9f32-373d51372afd",
+			"d926a855-ee5a-4011-866c-ab22effbb779",
+			"0168fbd9-969a-465c-bb24-3087d767a27d",
+			"6bdf23a3-107e-4a1f-8202-dba5358adf1a"
+		]
+	},
+	{
+		"prefix": "2",
+		"title": "Verklaren faseovergangen kwantitatief: smelt- en kookpunt als stofeigenschap en de rol van...",
+		"id": "ead83dbb-02a3-44f7-a71e-662544adf215",
+		"leerlijn_inhoud_id": [
+			"b68be8d5-34f1-438d-b765-97473102c6fe",
+			"aaa60d14-e0c7-455a-b0b4-f978050ad16d",
+			"b505903c-f2e1-4e0b-88f1-232a640e9f34",
+			"1a7dd558-9d97-4d7b-bbbb-d9f2ece5e6a8",
+			"62a8d1d1-0e6a-48c4-ab92-b2f73e3f1a8d",
+			"d11be866-df85-4b58-832d-75c7a075d288",
+			"447b51bc-8c29-47ce-a7e4-ca415222d682"
+		]
+	},
+	{
+		"prefix": "3",
+		"title": "Relateren chemische veranderingen aan hergroepering van atomen, waarbij het totaal aantal atomen...",
+		"id": "3befe468-5d17-498a-8376-0b55de45ff1f",
+		"leerlijn_inhoud_id": [
+			"aa265287-fbdd-49e8-9f85-8eb195408e02",
+			"149f5123-b9b6-4e11-9235-998d27e7b838",
+			"ed3d6be2-d684-46c7-b7d3-138a53cbebb4",
+			"c5d18aa1-e36f-45a0-9f58-c97629920eb4",
+			"de2b2a20-a352-4517-8431-b4ace4145490",
+			"030a8c03-9077-4872-9100-89f11cb9137a",
+			"512fa7a6-7179-4919-a4ee-449830e847e9"
+		]
+	},
+	{
+		"prefix": "1",
+		"title": "Onderbouwen de keuze van een scheidingsmethode met de stofeigenschap waarop ze berust...",
+		"id": "1c7c29c5-50c9-4020-a91b-67a715e0303a",
+		"leerlijn_inhoud_id": [
+			"f5952565-f197-4ce7-ae73-8fadc7ba06c2",
+			"4b7f8b3b-a91f-4b51-8169-ceb8b533c3fc",
+			"f6ea2f9e-b238-4bf8-b92b-de5d249807e3",
+			"1a10242c-74bd-440d-b7ef-6f2e73f712ee",
+			"5897defa-e79e-450f-85dd-08db476d4bdb",
+			"4f48c60b-13f6-4cc8-877a-e2d96a322621",
+			"c83a62cc-aa08-48e2-8c06-9c4ad5a32d5b"
+		]
+	},
+	{
+		"prefix": "2",
+		"title": "Ontwerpen een scheidingsschema voor een meervoudig mengsel en lichten dit toe",
+		"id": "ac343876-3d31-4dd1-8194-32932291dbca",
+		"leerlijn_inhoud_id": [
+			"43f8dae4-d724-432e-a64f-dcb4b40fbdf1",
+			"e66ed895-822a-4b7e-aaca-80cbea79a2a7",
+			"a5e7f051-1f3d-49ae-b87f-b4563b1899c6",
+			"c1554386-bd23-4ff3-96dd-d0b57d54390e",
+			"d3259db9-ae8d-4e11-8afe-f686cda8fd7c"
+		]
+	},
+	{
+		"prefix": "1",
+		"title": "Verklaren reactiesnelheid met het deeltjesmodel (botsingen) en het effect van temperatuur,...",
+		"id": "252b0e11-89e7-4e41-83f0-f75e9118a036",
+		"leerlijn_inhoud_id": [
+			"fa86dd7f-049d-45f9-9cf1-a2c6ae3ce50e",
+			"62551889-44df-4e3d-8426-26d1d73a14cc",
+			"3505680c-562c-4cda-9f1d-5c1bd966a938",
+			"ca1df0a0-501b-4bb9-9212-05aba5e85ac3",
+			"453ddb35-5705-4823-9a1e-0a15665ee0be",
+			"6f8f78d2-f768-4983-ac2f-1c10e45c8d3d",
+			"2cf45745-474a-418f-89ca-4ac35de2a06d"
+		]
+	},
+	{
+		"prefix": "2",
+		"title": "Gebruiken de begrippen katalysator en activeringsenergie om versnelling te verklaren",
+		"id": "5938c954-7d5d-4da4-bdda-e3d7e678c7c8",
+		"leerlijn_inhoud_id": [
+			"1c1e4b0c-823d-41a6-bda6-52d9d96af108",
+			"b3353a46-f7e4-4cec-8ac9-6b4316cdc9e7",
+			"e005c569-d39b-413d-8d62-3c866043ce13",
+			"1cc60386-7f35-4b5b-84b7-0547ce22c88d",
+			"1d43df63-120e-4894-a4db-d17cc58874a4"
+		]
+	},
+	{
+		"prefix": "1",
+		"title": "Beschrijven chemische reacties met massa- en atoombehoud en stellen kloppende...",
+		"id": "35724402-fbcb-45b9-ad85-0b588bfdc427",
+		"leerlijn_inhoud_id": [
+			"a1020264-25bf-4438-95b3-6dd69b4fdf35",
+			"750680fb-4f83-4f50-857b-b40a30d89932",
+			"d83fb0e3-8ee5-4981-bc62-8be143b9055f",
+			"3cc7ebaf-f000-416b-ae1d-97bd20c8ee92",
+			"c69b6523-e984-44dd-bb86-d7290d6f94f3",
+			"549b5850-16f5-4e35-a1d5-fadb92c3574e",
+			"69b3bdc8-5e5d-4096-aa71-77084298865c"
+		]
+	},
+	{
+		"prefix": "2",
+		"title": "Rekenen bij een chemische reactie met een gegeven massaverhouding",
+		"id": "a0933be6-c0b1-4375-9e76-ab95bfbfd8da",
+		"leerlijn_inhoud_id": [
+			"b913d63b-a4e4-4462-8b0c-7848801a875e",
+			"b42ed5ec-f41a-452d-a7c0-5dff6215b0c8",
+			"43251212-585b-4a03-b9b3-9eaa97800c61",
+			"cdc36480-abc6-4dc8-be6c-241b06494b9e"
+		]
+	},
+	{
+		"prefix": "1",
+		"title": "Analyseren welke fysische en chemische processen in een productieketen een rol spelen",
+		"id": "a1dbf850-d8ff-4e9f-b1dd-9c7a0abf45d9",
+		"leerlijn_inhoud_id": [
+			"5afcc598-3d33-4293-a932-d18c2839209d",
+			"b4bbaddf-c19e-4e4c-910d-d3a8a3ee41c1",
+			"c2dc0704-90da-4286-a30c-3f516ec4c7f8",
+			"56f84515-b6f0-4e1c-8680-d371af63103b",
+			"0bdfca01-5d89-421c-a9b1-919eee21530d",
+			"33a88c28-decb-4e8c-9547-c7be60a2bfb9",
+			"d3d6bee4-85e5-4405-a38a-9e005d2c42b4"
+		]
+	},
+	{
+		"prefix": "2",
+		"title": "Leggen verbanden tussen toenemende kennis over reacties en materie en de ontwikkeling van nieuwe...",
+		"id": "80d07f46-cb2e-4312-ba90-e46a6e49ecb0",
+		"leerlijn_inhoud_id": [
+			"3709aeeb-aa05-4f52-b377-4c82148f9090",
+			"8ea7cc7e-d21e-4a7c-8c29-92336af7dfa5",
+			"21966fcd-1008-4e79-938a-5984b20d1be5",
+			"cd93a3bf-14ff-4b33-91fe-8daf8f0fb397"
+		]
+	},
+	{
+		"prefix": "1",
+		"title": "Vergelijken een lineaire en een circulaire keten en beoordelen de mate van circulariteit",
+		"id": "d59b3251-a694-44ab-86ec-79803770cfdf",
+		"leerlijn_inhoud_id": [
+			"e7298f1c-0ab5-4b3c-b091-d7e04027f475",
+			"760ae3aa-69df-4951-8c7f-92e1396e4991",
+			"f9f16dc4-ef57-4804-b7eb-68e88df93c0b",
+			"75657f7c-3303-44a1-b1ab-0dc274788505",
+			"7389be33-72c7-44cf-a358-4a4c72806e81",
+			"a2193d2b-8aab-44e9-8872-c5d4afc474e8",
+			"9d3cac94-b5c1-4e58-998c-63cc8db1c1e3"
+		]
+	},
+	{
+		"prefix": "2",
+		"title": "Beoordelen kansen en knelpunten van circulair produceren (kwaliteit, energie, kosten)",
+		"id": "890356f5-92d6-4f00-aa16-75ebca46936b",
+		"leerlijn_inhoud_id": [
+			"a8460147-57fe-4501-a3c6-2e2d0ae11ccc",
+			"c75115ff-66ee-4ccc-b0dc-23f232623b4f",
+			"7ae357cc-6066-4219-903c-5d4b0616dfab",
+			"7b68ceac-41d6-49d7-8ebd-cac600456a6d"
+		]
+	},
+	{
+		"prefix": "1",
+		"title": "Onderbouwen een afweging over grootschalige productie met gegevens (grondstoffen, energie,...",
+		"id": "ca6cfbcf-c664-4d62-9c45-89e76e0fd82d",
+		"leerlijn_inhoud_id": [
+			"c7d6242b-5c04-4df9-8f17-636e29c1daca",
+			"45309a7e-bdec-4c60-9058-ce06d4ab67e8",
+			"a3aef4a4-a821-48bc-a41f-77cf7b0e72a5",
+			"83cdd5e1-2078-47f9-845e-6be7a4d9f503",
+			"8d26dd33-bf59-4c38-8ed7-f500033ea107",
+			"21f498ce-f365-4c86-8a96-a6ccb29a32d2",
+			"35d78c33-4e33-46ff-acdd-d8956cc875cf"
+		]
+	},
+	{
+		"prefix": "2",
+		"title": "Onderbouwen een standpunt over duurzamere productie met data en meerdere perspectieven",
+		"id": "480d6636-f863-480c-96f3-1eedac49fc63",
+		"leerlijn_inhoud_id": [
+			"3bb195c6-1ea6-45fa-8f94-48572bf8b368",
+			"33eab646-5917-45df-b78e-e50f624f2547",
+			"964d691a-a2e3-4c7d-855c-009ef514afe7",
+			"e0898e10-2004-4e2a-91da-f2363d52da0f"
+		]
+	},
+	{
+		"prefix": "1",
+		"title": "Analyseren veiligheidsinformatie (etiket, veiligheidsblad) en onderbouwen voorzorgsmaatregelen",
+		"id": "b97afa8e-8ce8-41e5-8799-9c78d8c216f3",
+		"leerlijn_inhoud_id": [
+			"35e35b86-1ad8-4ff5-9d6c-7f03db3737e3",
+			"144f3224-d295-4770-a606-816e276af8df",
+			"dc4f86ce-5a69-418f-af83-dee33f7a42e7",
+			"f2512a2d-e7a5-48b1-a223-78f3dedcd677",
+			"03727d3c-aa2c-4ea0-8585-416b4b22356e",
+			"d4e36ff5-3eb1-45b7-b341-e7e7dbdea719",
+			"d0d14f1b-3bfc-4cf8-baba-13116cad6066"
+		]
+	},
+	{
+		"prefix": "2",
+		"title": "Interpreteren een dosis-effectrelatie (drempelwaarde, LD50) en redeneren over veiligheidsmarges",
+		"id": "c2293914-21c0-4747-8170-851b81ef42b1",
+		"leerlijn_inhoud_id": [
+			"c17242ed-69be-4123-b143-52ea5e04ae25",
+			"8c469959-d015-40f8-ae94-d2e8f5a335e7",
+			"6b14335c-1932-4dcf-a7f5-d96a78fc9c86",
+			"98e5a80e-eee2-479f-ac00-ffc9774377c7",
+			"44846e36-c0dc-4f52-9f9f-9bed4664395d"
+		]
+	}
+]

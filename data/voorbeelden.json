@@ -1,0 +1,1282 @@
+[
+	{
+		"title": "Voorbeeld VE",
+		"description": "In de groep: in de ontdekhoek spelen kinderen met water, ijsklontjes, zand en keukenspulletjes (suiker, zout, meel). Ze voelen, kijken en benoemen wat er gebeurt.",
+		"id": "9eda8ca2-0ebc-44fd-856a-1ad670156afc",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "In de klas: leerlingen lossen suiker en zout op in water, mengen kleuren en laten water bevriezen en weer smelten; ze beschrijven wat ze zien.",
+		"id": "afe76fd6-dfda-45c8-a8bc-f90596c23712",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "In de klas: leerlingen verkennen waarneembare eigenschappen van stoffen: oplossen (bijv. keukenpoeders), mengen en ontmengen (laagjesvorming).",
+		"id": "c73d2eeb-30d0-4261-b72b-00460942078f",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "In de klas: leerlingen onderzoeken oplossen, mengen en ontmengen en faseovergangen, en sorteren stoffen op eigenschappen; ze noteren waarnemingen in een tabel.",
+		"id": "30e6af44-673d-4883-9755-25fabe81601e",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "in de klas: Leerlingen onderzoeken veranderingen aan waarneembare eigenschappen van materialen (invloed van vocht, roesten) en van stoffen (oplossen; mengen en ontmengen van waterige en vetachtige lagen; uitzakken van aarde in water).",
+		"id": "70264ca7-ef0d-475b-919e-4d895ca8efd7",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "In de klas: leerlingen verklaren waarnemingen met het deeltjesmodel, kiezen en voeren scheidingsmethoden uit (filtreren, indampen, destilleren) en onderzoeken wat een reactie sneller laat verlopen.",
+		"id": "5e7ac406-0cba-4072-a2ac-7b3c2d8b9a84",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "In de klas: leerlingen stellen reactievergelijkingen op, controleren massa- en atoombehoud en rekenen met massaverhoudingen aan een reactie.",
+		"id": "02d166ae-1429-4581-a9e8-223aed902ddf",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "knijp een suikerklontje fijn: van klontje naar losse korrels.",
+		"id": "8d6272b9-661e-4f89-8e0c-cce20b9cd636",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "zand en suiker door een vergrootglas bekijken: allemaal kleine korrels.",
+		"id": "4393b874-56b8-404b-b8e4-0810e6c108c4",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "een druppel geurolie in de klas: iedereen ruikt het na een tijd.",
+		"id": "e402b8a2-60e4-4b13-a6c4-b0adfd370e9e",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "voedselkleurstof in water laten uitwaaieren zonder te roeren.",
+		"id": "92c4fb00-63c2-4a5f-b11c-a3fbdab75585",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "ballon met geur: deeltjes ontsnappen door de ballonwand.",
+		"id": "475b8606-bef3-4579-ac51-7ea92857f697",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "deeltjesmodel tekenen van vast, vloeibaar en gas.",
+		"id": "2f6a3d9b-1d23-4a27-b0ca-6793da0ea909",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "atoommodel van waterstof en helium tekenen (kern + elektronen).",
+		"id": "23b0a198-a9d0-4751-bafb-79312eb7b46b",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "een ‘voel-doos’ met verschillende materialen.",
+		"id": "735a160d-0cd0-45e8-ab64-e96a2e2477ee",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "materialen sorteren in bakjes: hout, metaal, plastic, steen.",
+		"id": "de73fdd8-97d4-4b14-b668-d109d6fdba62",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "stenen/knikkers ordenen op kleur, gewicht en hardheid.",
+		"id": "b9d7ff7c-4fd9-4611-82d7-498e67ea08bb",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "voorwerpen ordenen naar het materiaal waaruit ze bestaan.",
+		"id": "1780b5fe-41b0-492b-9ba8-9977d113935d",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "bouwsteenmetafoor: met 2 soorten blokjes veel bouwwerken maken.",
+		"id": "3a9ae901-609c-4488-b8ca-67e13bb3a60b",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "namen en symbolen van enkele atoomsoorten (H, O, C, Fe) verkennen.",
+		"id": "30b74dc2-46e2-4116-80b6-bd2ba547e23f",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "atoomsoorten vergelijken met het periodiek systeem.",
+		"id": "a58247b0-ad2e-4878-945c-6ed6a595b696",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "met blokjes nabouwen wat ze zien.",
+		"id": "ccd5ad66-549d-4e26-84cb-96c814e09f9e",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "een tekening maken van ‘hoe water er van binnen uitziet’.",
+		"id": "fc00f8c7-5c52-4454-8b54-6c8666b0748d",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "twee modellen vergelijken: welk legt het beste uit?",
+		"id": "f3e76593-04f3-4849-bd0f-59f8010e7c02",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "tijdlijn leggen van verschillende ‘ideeen over stof’.",
+		"id": "f2347bd2-c7b0-439d-bce3-2f1b68c06c1a",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "model van Dalton naast het deeltjesmodel leggen.",
+		"id": "7064ba38-db66-4919-91d4-2f7edae618e0",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "tijdlijn vier elementen → flogiston → Dalton → atoommodel.",
+		"id": "7bb3aeb9-023f-42fe-9c3a-a4f5ce432ec4",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "een tast- en ruikspel met bekende stoffen.",
+		"id": "12ef0852-4087-449c-8520-12184566b456",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "stoffenmuseum: potjes met water, zand, zout, suiker, olie.",
+		"id": "a8f3f1a6-77ed-4216-9ad4-7316a9c22846",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "stoffen ordenen op een eigenschap (lost wel/niet op).",
+		"id": "98239204-3005-472c-ac23-d111d48cd2dd",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "drijf- en zinkproef met verschillende stoffen.",
+		"id": "9203c7ea-039a-4ba6-8ecf-f8d66e5e9702",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "dichtheid voelen: even grote blokjes, verschillend gewicht.",
+		"id": "5816bb6f-5a61-4a3a-8dfc-9c2ba5fdca75",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "smelt- en kookpunt opzoeken als ‘vingerafdruk’ van een stof.",
+		"id": "a7eedac5-fcac-4769-b425-889aa92611fb",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "onbekende stof identificeren via dichtheid en kookpunt.",
+		"id": "97062d68-cbc6-47c4-b73d-7b6b74ab5558",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "kleuren mengen met verf of gekleurd water.",
+		"id": "49e9eed4-3496-45d9-b778-8c5a2fbb20fa",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "suiker in water laten ‘verdwijnen’ (oplossen).",
+		"id": "d36c6f01-c0ed-4542-8246-6f7f2417b3a6",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "olie en water schudden en zien scheiden.",
+		"id": "5285c203-524b-4ba9-91fe-21445faab6e1",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "slootwater laten uitzakken in een pot.",
+		"id": "c5fbc25b-cacb-4120-9e15-1996c75dcaa8",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "een glas cola of melk bekijken: mengsel of zuivere stof?",
+		"id": "133f5cd8-6d64-4963-846c-97f640c1bb61",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "smelttraject van een mengsel vs. een zuivere stof vergelijken.",
+		"id": "12f68933-a153-400b-a476-0c279f2a9547",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "deeltjestekening van een oplossing maken.",
+		"id": "847de12f-426c-4581-b2de-a41cfc260aa5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "kaartjes sorteren: zuiver of gemengd?",
+		"id": "4fc92dd6-8311-4af0-9e12-55f9996f50ce",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "zeewater indampen: er blijft zout achter.",
+		"id": "077bffe7-f91c-44f2-a7ec-07b4fe977d0d",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "kraanwater vs. gedemineraliseerd water vergelijken.",
+		"id": "f8c65633-be62-4853-973b-f18a02525ccb",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "deeltjesmodel van zuivere stof en mengsel tekenen.",
+		"id": "0417c177-18d6-4e8d-bd29-7c78c6cc2e73",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "kookpunt-traject van zout water meten en verklaren.",
+		"id": "97631925-caa1-4e37-94cd-beb77b0b61ee",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "zintuiglijk waarnemen van een verandering (ijs smelt, geur).",
+		"id": "580e0979-6c7a-46be-9efa-87a89d6a3a5d",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "een verandering die je ziet benoemen en natekenen.",
+		"id": "0a6671e7-ec67-4ed5-88e2-29ccf2732e5d",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "sorteren: kun je het terugdraaien of niet?",
+		"id": "19bb5a9f-b1cb-4971-9ffc-bf5c81f1f584",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "voorbeelden ordenen op omkeerbaar/onomkeerbaar.",
+		"id": "2e9ab736-a301-4beb-b596-41cdf8783966",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "massa voor en na een verandering wegen.",
+		"id": "eeb3f16d-106e-4969-8f1b-3bacaa2e35bb",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "natuurkundige en scheikundige verandering met het deeltjesmodel.",
+		"id": "bb3d0367-210c-4fd1-b1ce-52a07176cd19",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "een ijsklontje in de hand laten smelten.",
+		"id": "82439efb-b958-4e8c-83f7-840753728bb3",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "water bevriezen in de vriezer en weer laten smelten.",
+		"id": "d425d01d-dc8c-4010-93b6-9434b952264a",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "chocolade smelten en weer hard laten worden.",
+		"id": "7a220537-1465-4ca3-82ae-b3bb118b3ca4",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "wasem op een koude spiegel (condensatie) onderzoeken.",
+		"id": "e2b32d96-2164-4ecb-a54f-858fc2d0c34a",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "een afkoelkromme van water meten.",
+		"id": "083feb49-33c5-4f70-96af-6afacb35d5d5",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "deeltjestekening van smelten en verdampen maken.",
+		"id": "10bb67b0-d469-4b52-9e8f-f80b86a2146a",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "smelt-/kookpunt bepalen en in een verwarmingskromme zetten.",
+		"id": "20532029-cf56-442f-9de4-e84cc0cf885a",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "een banaan zien bruin worden.",
+		"id": "9760c674-8f8f-431c-a3ac-d3df0b6ebb88",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "een koekje bakken: beslag wordt koek.",
+		"id": "ce54c3d6-79b9-4865-b141-8ae0a1200820",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "roest op een spijker onderzoeken.",
+		"id": "67f6e3d5-ebe0-4550-973b-ed153bad2db3",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "bruistablet in water: gasvorming als teken van reactie.",
+		"id": "76a5037e-6ffe-45fb-b44a-7f6a378b88eb",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "azijn en bakpoeder mengen en de massa voor/na wegen.",
+		"id": "959a3a39-8e60-43fb-beb1-c01a36300bb2",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "deeltjesmodel van een eenvoudige reactie tekenen.",
+		"id": "fab01458-f1d3-4e68-a68d-08f0773af611",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "atoombehoud laten zien met een gesloten reactiezakje.",
+		"id": "63a7d837-74c1-4322-ac8c-6ed9331b714c",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "stenen uit zand zeven in de zandbak.",
+		"id": "33d907b0-41da-4007-b8e0-7a237dbdb170",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "pasta afgieten met een vergiet.",
+		"id": "3bec424e-dd4e-4802-bae8-d5628b1428c5",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "modderwater door een koffiefilter halen.",
+		"id": "b2ac4610-f44b-4733-b2b7-81126b4af5dd",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "ijzervijlsel met een magneet uit zand halen.",
+		"id": "fc4ce69e-4f97-44b1-9fab-7ed5b6d5ed0d",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "zout terugwinnen uit zout water door indampen.",
+		"id": "94e5130c-c532-4074-9e6a-f318a2a59320",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "kleurstoffen scheiden met papierchromatografie.",
+		"id": "6ff34948-ec59-4542-93c4-beff0ebc66bb",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "mengsel scheiden in stappen en de keuzes verantwoorden.",
+		"id": "db862b02-2565-4d05-8a07-d8aa4a51ed2e",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "verschillende mengsels uitproberen.",
+		"id": "3505ab44-9581-477d-8334-ef5ecce2ada3",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "kaartjes koppelen: mengsel ↔ scheidingsmanier.",
+		"id": "cdafb633-350a-48f0-b751-e151608b69c1",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "uitleggen waarom een filter werkt.",
+		"id": "81eab815-8593-49ac-a4af-8e16f4a97109",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "schema methode ↔ stofeigenschap maken.",
+		"id": "4f21a008-088d-4407-a1f5-3ced24c9352b",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "scheidingsschema voor afvalwater ontwerpen.",
+		"id": "e362f257-f52e-4367-acfa-b877513f2e2f",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "ijsje in de zon en in de schaduw vergelijken.",
+		"id": "8ed1225b-4ba4-4d57-b8eb-3ae265c1b441",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "suiker in warm en koud water laten oplossen.",
+		"id": "7d0c893a-b364-4e2c-b438-c91d36645ebd",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "bruistablet heel vs. fijngemaakt vergelijken.",
+		"id": "fcd8a0e9-35d9-4d9c-99c3-d58166ba59d4",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "oplostijd meten bij wel/niet roeren.",
+		"id": "9a84b93e-9b35-40fa-ac8d-089ea85db4e0",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "reactietijd meten bij verschillende temperaturen.",
+		"id": "54c9aea6-b872-4a1b-8446-f8c9f0db7a12",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "bruistablet: effect van temperatuur en oppervlak meten.",
+		"id": "a428c2c9-2c63-49e2-9248-a7e4a854919d",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "katalysator-proef (gist op waterstofperoxide) uitvoeren.",
+		"id": "704aaea2-e9de-40d8-a64f-77f0209040a5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "twee oplosproefjes vergelijken.",
+		"id": "468eb60c-2197-4ee8-8b01-d0b0aab092b9",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "eerlijk vergelijken: alles gelijk, één ding anders.",
+		"id": "18e6171d-9951-4ee7-bbcb-169cd4261a58",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "staafdiagram van oplostijden maken.",
+		"id": "5ee97323-858c-4d88-8f48-d20e7418b402",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "met en zonder katalysator vergelijken.",
+		"id": "a5bb235e-bdb7-4d44-a469-e196a31d749d",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "botsingsmodel met en zonder katalysator tekenen.",
+		"id": "5d360dd2-3cdd-4eac-a66a-7c17dd6564ac",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "In de groep: kinderen helpen bij ‘maken’: beslag roeren en bakken, sap persen of van oude spullen iets nieuws knutselen; ze ervaren grondstof → product.",
+		"id": "7d279a25-36ac-4f57-b8f1-1fa053acc9a0",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "In de klas: leerlingen maken iets eetbaars (brood, of boter uit room) en bekijken hoe grondstoffen veranderen in een product; ze scheiden afval in bakken.",
+		"id": "7ef56ba4-c11f-47a6-9e47-5def9158f8f8",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "In de klas: leerlingen volgen waar een alledaags product vandaan komt (van graan tot brood) en zamelen materialen in voor hergebruik.",
+		"id": "178539b2-20b3-4a14-9c1a-6292628831be",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "In de klas: leerlingen onderzoeken hoe grondstoffen worden omgezet in producten en hoe materialen (papier, glas, plastic) opnieuw worden gebruikt.",
+		"id": "05115158-802a-4c20-9f3e-ccfa88c2ab0d",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "In de klas: leerlingen beschrijven een productieproces in stappen, beschrijven de kringloop van een materiaal en bespreken voor- en nadelen van grootschalige productie.",
+		"id": "75a0461e-0f35-4504-8e4f-be7a2c98ca64",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "In de klas: leerlingen beschrijven chemische reacties in woorden, onderzoeken hoe grondstoffen tot producten worden omgezet en hoe productie circulair kan (drinkwater, blik, glas, plastics, kleding).",
+		"id": "27e6991d-adb5-4bbb-872a-37a323439157",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "In de klas: leerlingen leggen verbanden tussen kennis over reacties en de ontwikkeling van nieuwe materialen en processen, en onderbouwen afwegingen over grootschalige productie met gegevens.",
+		"id": "c8aa32d6-9ec4-42ab-a4d3-53255e480f58",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "samen pannenkoeken bakken en erover praten.",
+		"id": "c9123cc1-09f5-48ba-b03d-98131554862b",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "tekenen wat erin gaat en wat eruit komt.",
+		"id": "2f6e2d3c-d438-4383-a752-a09fd363c71e",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "‘van meel wordt brood’ in een pijl-schema.",
+		"id": "9709c4f3-aa91-4d0d-9ba3-7cbe11a173a0",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "roesten beschrijven: ijzer + lucht/water → roest.",
+		"id": "ec3e369b-ca4a-45d7-a8c4-8b256acff71b",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "verbranden van een kaars in woorden beschrijven.",
+		"id": "551385b5-97a2-431c-aa9f-5d8d7e303de8",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "woordvergelijking van een verbranding opstellen.",
+		"id": "a3c31d2c-b5a1-4b9b-96fa-97be8a58daa4",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "reactievergelijking kloppend maken (atoombehoud).",
+		"id": "03e25a4d-c1c8-469e-9612-e6f531413c3e",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "bruisreactie in een gesloten zakje wegen.",
+		"id": "36ea51d4-2536-4e64-959b-87ab499a69d5",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "massa voor en na een reactie vergelijken.",
+		"id": "90f0be6c-158c-4763-9799-16758c686ba0",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "tabel met massa’s beginstoffen en producten.",
+		"id": "d4463515-1817-4090-a1ce-7aac93ac574f",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "rekenen aan een gegeven massaverhouding.",
+		"id": "60285b0a-1f61-48b7-8a11-0d0662758841",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "voelen en ruiken aan wol, meel en fruit.",
+		"id": "f3077199-881f-4737-9987-233979d1ea8c",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "kaartjes koppelen: grondstof ↔ product.",
+		"id": "dbe9a80b-bdf6-4ea9-be66-629c617a4379",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "‘van graan tot brood’ in stappen leggen.",
+		"id": "9a2bda6d-0261-4037-89aa-95426c916fda",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "boter karnen uit room.",
+		"id": "102cd3f4-12c7-47c1-ade6-0cfd520ee8bd",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "stappenschema van een product maken.",
+		"id": "78f9c3ea-8449-4a2f-b94f-9967208a2a23",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "productieproces van papier of brood onderzoeken.",
+		"id": "3a56c399-3e61-4a5d-b96f-7f9f7373355a",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "keten van een product met processen benoemen.",
+		"id": "c7636ede-f882-4cc8-904e-da4205998711",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "voorbeelden van plastic voorwerpen verzamelen.",
+		"id": "ec38559d-0b8f-46bb-9356-68b30174ccba",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "natuurlijke en kunstmatige materialen vergelijken.",
+		"id": "62610671-fa2c-40a7-adb3-8917876f0c6d",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "tijdlijn van uitvindingen van materialen.",
+		"id": "176b8dda-86a9-4cd6-b3b2-02d1223955d3",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "casus: ontwikkeling van een nieuw materiaal onderzoeken.",
+		"id": "ed0549e5-5562-4831-b806-93d34de1ab1c",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "een knutsel maken van afvalmateriaal.",
+		"id": "b2528e6a-c6af-4841-8a4d-44f87a2bb22a",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "afval in de klas in bakken scheiden.",
+		"id": "203343c1-22e5-41a4-a309-132b654ba6e8",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "oud papier inzamelen en hergebruiken.",
+		"id": "9dc61ccb-7c80-4672-b297-143f4483112b",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "kringloop van glas in beeld brengen.",
+		"id": "d43b4c7b-0213-4e44-888d-64104e09257e",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "kringloop van plastic in stappen tekenen.",
+		"id": "387bbb20-128a-481c-98cb-dc8c4c58e0f8",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "circulaire keten van kleding onderzoeken.",
+		"id": "1cc9b02b-40eb-48d3-8902-0f9cf889960b",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "lineaire vs. circulaire keten vergelijken.",
+		"id": "5eefa086-4146-480c-aeb3-c6982a0f05be",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "afvalvrije-klas-actie bedenken.",
+		"id": "87787d4c-f38d-4c40-9519-ba9459558c2a",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "logo’s van gerecyclede producten verzamelen.",
+		"id": "fb3d35ca-51a2-454c-ab67-3e46326b98aa",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "stappen naar een circulair product ontwerpen.",
+		"id": "318653ae-edf3-475f-b784-0ef1d056d186",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "knelpunten van recycling van plastic onderzoeken.",
+		"id": "0afe1b6c-f342-4b30-b344-6850346db8a2",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "opruimen en bespreken hoeveel afval er is.",
+		"id": "06dbc91f-4be3-4a04-9a6c-72c88a0c2457",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "tellen hoeveel verpakkingen er op één dag zijn.",
+		"id": "d995cd60-9ade-4757-ae79-2c3735625361",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "voor- en nadelen van een product bespreken.",
+		"id": "6b7de710-d251-4f6f-ac51-adea95d57897",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "‘reis’ van een product en zijn afval volgen.",
+		"id": "6a7152d9-d589-4e46-85e0-e769e7540d71",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "voor-/nadelentabel van grootschalige productie.",
+		"id": "643a84b6-3cc4-44ee-b31e-c0072969087c",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "casus: impact van een productieketen beoordelen.",
+		"id": "ccd258d7-60e1-4b27-bced-d7c1810ecc9b",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "gegevens over uitstoot/grondstoffen vergelijken.",
+		"id": "7698dd2b-34df-409b-afba-5f4d52e7e721",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "wegwerp vs. herbruikbaar vergelijken.",
+		"id": "f01e573a-5cdd-4d69-bf77-3aab3b33fc0f",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "belangen in een rollenspel afwegen.",
+		"id": "3f15a1fe-8dda-469e-a753-e4734e265267",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "standpunt over duurzamere productie onderbouwen.",
+		"id": "8aca3b37-c253-47c1-8c57-45fc469b6329",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "scenario’s met data vergelijken.",
+		"id": "f0a1a485-a320-42e2-8e53-8cb2ef23cbb0",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "In de groep: kinderen leren dat je niet alles in je mond stopt en dat sommige flesjes en spulletjes gevaarlijk zijn; ze herkennen ‘pas op’-plaatjes.",
+		"id": "c6634599-bfc1-4fb4-ae66-d84304f0acb9",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "In de klas: leerlingen herkennen gevaarsymbolen op verpakkingen en weten dat schoonmaakmiddelen en medicijnen niet om mee te spelen zijn.",
+		"id": "4dda866a-97e8-41f8-b962-eeae20d07643",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "In de klas: leerlingen sorteren huishoudproducten op veilig/gevaarlijk en bespreken hoe je veilig omgaat met hete en bijtende stoffen.",
+		"id": "5f934428-8074-49de-b49a-070170216581",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "In de klas: leerlingen onderzoeken etiketten en gevaarsymbolen en stellen klassenregels op voor veilig werken met stoffen.",
+		"id": "eb931f30-7554-4960-a0a4-486e83030042",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "In de klas: leerlingen herkennen gevaren van veelvoorkomende stoffen (CO, rook, schoonmaakmiddelen) en weten hoe te handelen bij een ongeluk.",
+		"id": "c649b94f-1c35-430b-aaaa-86981f3ca35b",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "In de klas: leerlingen onderzoeken het verband tussen dosis en effect en beoordelen voorzorgsmaatregelen bij het werken met chemicaliën.",
+		"id": "824c4566-0c5f-446f-89bc-54a231acffaa",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "In de klas: leerlingen interpreteren dosis-effectgegevens (drempelwaarde, LD50) en redeneren over toxiciteit en veiligheidsmarges.",
+		"id": "7756eda1-421e-4b80-9d55-f9e953402d6d",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld VE",
+		"description": "‘niet in je mond’-spel met plaatjes.",
+		"id": "9a8818d7-33ed-4eec-9136-107096058fc7",
+		"niveau_id": [
+			"15d693b8-fbe1-4112-8135-4a20aba5101c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 1-2",
+		"description": "waarschuwingsplaatjes herkennen en benoemen.",
+		"id": "22e39048-0dad-449f-8ef7-bc034e7a2ded",
+		"niveau_id": [
+			"e222c093-f0c6-4895-9dfb-c08eafb27aef"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "gevaarsymbolen zoeken op verpakkingen.",
+		"id": "693e6286-cb59-40e0-a5db-8f6034ce8ea5",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "symbool ↔ voorzorg koppelen.",
+		"id": "0c3e6eed-2d6b-4db6-a2ca-2587dce811d4",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "noodscenario oefenen: wat doe je bij een ongeluk?",
+		"id": "56276bf8-a642-4f25-a048-688e754c57dd",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "etiketten van schoonmaakmiddelen beoordelen.",
+		"id": "e15e6968-d1e7-4ac8-bf87-1f12cb552608",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "veiligheidsblad van een stof analyseren.",
+		"id": "79d27dec-f8d1-44d7-a122-735d8396fcd0",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 3-4",
+		"description": "‘te veel snoep’-gesprek voeren.",
+		"id": "0d96f83a-f3db-4caa-ae02-1f8e699a78b7",
+		"niveau_id": [
+			"e0d54104-4bbc-4e6a-9c53-114f0af56027"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 5-6",
+		"description": "voorbeelden ordenen op ‘veel/weinig is schadelijk’.",
+		"id": "156122da-bc25-4700-8fee-b52230ba591a",
+		"niveau_id": [
+			"a719649f-03ca-48cf-b689-252b109de32c"
+		]
+	},
+	{
+		"title": "Voorbeeld groep 7-8",
+		"description": "dosis-effect met zout of cafeïne bespreken.",
+		"id": "0f48f5b5-93fe-4248-aa98-87bb67bba066",
+		"niveau_id": [
+			"457f3ac7-522b-41f4-b2c7-6f4c2d891faf"
+		]
+	},
+	{
+		"title": "Voorbeeld vo onderbouw",
+		"description": "dosis-effectgrafiek lezen.",
+		"id": "92bbc59c-f3d1-40c0-b5a6-7f4d4fb56727",
+		"niveau_id": [
+			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+		]
+	},
+	{
+		"title": "Voorbeeld h/v onderbouw",
+		"description": "LD50- en drempelwaarde-gegevens vergelijken.",
+		"id": "ea53658b-f049-4bce-8a17-b70ef3ea2687",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
+	}
+]

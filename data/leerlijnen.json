@@ -1,0 +1,78 @@
+[
+	{
+		"prefix": "1",
+		"title": "Onderzoeken, ontwerpen en verwonderen",
+		"description": "De onderzoekende en nieuwsgierige houding, denk- en werkwijzen en de aard van wetenschap en techniek",
+		"id": "7b84bffc-8c58-4a71-a414-114437185aa8",
+		"leerlijn_inhoudsblok_id": [
+			"65a59fcd-a0f7-4f63-9424-e9f195dda522",
+			"6d3ec0ac-eba7-4fd6-a039-110a5f0c3a6b",
+			"4faee9fb-cf89-455f-b188-a9b9d6826b38",
+			"10777eaa-c6cc-4ec5-9b94-06718c3cdee7",
+			"bb4b3d63-40b7-4a2b-87f2-a5b108a6e89b"
+		],
+		"leerlijn_focus_id": []
+	},
+	{
+		"prefix": "2",
+		"title": "Stoffen, materie en materialen",
+		"description": "De niet-levende natuur: van materialen in het dagelijks leven tot deeltjes, reacties en kringlopen",
+		"id": "07a48958-c30d-4b83-ab4d-1ac9643825a4",
+		"leerlijn_inhoudsblok_id": [
+			"9622cf39-ff3b-4fdb-988c-7db959c485ab",
+			"6b22d771-ff08-4b80-9ff0-10cb79033b69",
+			"b6be00d3-d5b0-466a-a23e-742a9447023b"
+		],
+		"leerlijn_focus_id": [
+			"0898055e-f459-477c-8444-497de0028a37",
+			"c93ca0fb-899e-4557-adab-2fbec2c9fe75",
+			"0ccd1ba5-131e-4e5c-b97e-a9c5d77be7f2",
+			"a25e7352-8daf-40dc-8a4a-e17871d2c6a6",
+			"645ae857-7e67-4727-97bb-a53aebf83219",
+			"60c67c99-07a3-4c32-9705-057ac15c5772",
+			"f21ca42a-e5f5-44d2-917e-dcb07c0e34c2"
+		]
+	},
+	{
+		"prefix": "3",
+		"title": "Krachten, energie en technische systemen",
+		"description": "Natuurkundige verschijnselen en de door de mens ontworpen, technologische wereld",
+		"id": "8b873263-9945-47fa-9174-e7545501f9b0",
+		"leerlijn_inhoudsblok_id": [
+			"c3be695a-1164-4b45-bdca-7cdc750fb996",
+			"521d7477-4ddf-4c04-8815-7b36e3460eb6",
+			"2cc99537-993d-41da-b33f-9f67acc4f82b",
+			"47f87444-4312-40f2-9464-1fea4ef9594f",
+			"463162f1-acbc-4bc5-b56c-6f3220a5eaaa"
+		],
+		"leerlijn_focus_id": []
+	},
+	{
+		"prefix": "4",
+		"title": "Leven, lichaam en gezondheid",
+		"description": "Organismen, het menselijk lichaam en gezonde, weerbare en bewuste keuzes",
+		"id": "163d3f40-ee61-4d6c-9c60-d8d32634603e",
+		"leerlijn_inhoudsblok_id": [
+			"8cd5e7f2-a9f9-4e14-9083-acc285dff3cf",
+			"39d7ce97-8cde-4f5f-87cb-3417523529a2",
+			"669ac733-2651-4e21-a7c2-cbfd0a7da1ba",
+			"e5bba325-7e53-4409-b797-c5bf2e258bb1",
+			"51457687-6096-47a5-ac08-dcb85488389a"
+		],
+		"leerlijn_focus_id": []
+	},
+	{
+		"prefix": "5",
+		"title": "Aarde, ecosystemen en onze leefomgeving",
+		"description": "Systeem aarde, het samenspel in ecosystemen en de relatie tussen mens, natuur en duurzaamheid",
+		"id": "1645354d-5d66-4522-a2de-63774d3472b2",
+		"leerlijn_inhoudsblok_id": [
+			"fdd72856-c247-4ab2-87f3-aee37a449ebd",
+			"55bebd29-47e8-433e-8751-32771a248c9e",
+			"b773b431-0e21-4018-bd74-8b9f72cb1312",
+			"d9c14283-7b57-40c8-be70-434b64c44e6e",
+			"b958581f-1c53-49b1-9073-fdf834057256"
+		],
+		"leerlijn_focus_id": []
+	}
+]

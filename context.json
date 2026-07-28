@@ -1,0 +1,313 @@
+{
+	"$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-leerlijn/context.json",
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"definitions": {
+		"leerlijn": {
+			"allOf": [
+				{
+					"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base"
+				}
+			],
+			"properties": {
+				"prefix": {
+					"type": "string"
+				},
+				"leerlijn_inhoudsblok_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/leerlijn_inhoudsblok"
+							}
+						}
+					]
+				},
+				"leerlijn_focus_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/leerlijn_focus"
+							}
+						}
+					]
+				}
+			},
+			"required": [
+				"id",
+				"title",
+				"leerlijn_inhoudsblok_id"
+			]
+		},
+		"leerlijn_focus": {
+			"allOf": [
+				{
+					"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base"
+				}
+			],
+			"properties": {
+				"niveau_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau"
+							}
+						}
+					]
+				}
+			},
+			"required": [
+				"id",
+				"title",
+				"niveau_id"
+			]
+		},
+		"leerlijn_inhoudsblok": {
+			"allOf": [
+				{
+					"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base"
+				}
+			],
+			"properties": {
+				"prefix": {
+					"type": "string"
+				},
+				"leerlijn_subinhoudsblok_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/leerlijn_subinhoudsblok"
+							}
+						}
+					]
+				},
+				"fo_kernzin_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-fo/context.json#/definitions/fo_kernzin"
+							}
+						}
+					]
+				},
+				"leerlijn_voorbeeld_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/leerlijn_voorbeeld"
+							}
+						}
+					]
+				}
+			},
+			"required": [
+				"id",
+				"title",
+				"leerlijn_subinhoudsblok_id"
+			]
+		},
+		"leerlijn_subinhoudsblok": {
+			"allOf": [
+				{
+					"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base"
+				}
+			],
+			"properties": {
+				"prefix": {
+					"type": "string"
+				},
+				"leerlijn_inhoudsrij_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/leerlijn_inhoudsrij"
+							}
+						}
+					]
+				}
+			},
+			"required": [
+				"id",
+				"title",
+				"leerlijn_inhoudsrij_id"
+			]
+		},
+		"leerlijn_inhoudsrij": {
+			"allOf": [
+				{
+					"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base"
+				}
+			],
+			"properties": {
+				"prefix": {
+					"type": "string"
+				},
+				"leerlijn_inhoud_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/leerlijn_inhoud"
+							}
+						}
+					]
+				}
+			},
+			"required": [
+				"id",
+				"title",
+				"leerlijn_inhoud_id"
+			]
+		},
+		"leerlijn_inhoud": {
+			"allOf": [
+				{
+					"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base"
+				}
+			],
+			"properties": {
+				"niveau_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau"
+							}
+						}
+					]
+				},
+				"leerlijn_voorbeeld_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/leerlijn_voorbeeld"
+							}
+						}
+					]
+				}
+			},
+			"required": [
+				"id",
+				"title",
+				"niveau_id"
+			]
+		},
+		"leerlijn_voorbeeld": {
+			"allOf": [
+				{
+					"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base"
+				}
+			],
+			"properties": {
+				"niveau_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau"
+							}
+						}
+					]
+				}
+			},
+			"required": [
+				"id",
+				"title",
+				"niveau_id"
+			]
+		}
+	},
+	"properties": {
+		"leerlijn": {
+			"#file": "data/leerlijnen.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/leerlijn"
+			}
+		},
+		"leerlijn_focus": {
+			"#file": "data/focus.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/leerlijn_focus"
+			}
+		},
+		"leerlijn_inhoudsblok": {
+			"#file": "data/inhoudsblokken.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/leerlijn_inhoudsblok"
+			}
+		},
+		"leerlijn_subinhoudsblok": {
+			"#file": "data/subinhoudsblokken.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/leerlijn_subinhoudsblok"
+			}
+		},
+		"leerlijn_inhoudsrij": {
+			"#file": "data/inhoudsrij.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/leerlijn_inhoudsrij"
+			}
+		},
+		"leerlijn_inhoud": {
+			"#file": "data/inhoud.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/leerlijn_inhoud"
+			}
+		},
+		"leerlijn_voorbeeld": {
+			"#file": "data/voorbeelden.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/leerlijn_voorbeeld"
+			}
+		},
+		"deprecated": {
+			"#file": "data/deprecated.json",
+			"type": "array"
+		}
+	},
+	"required": [
+		"leerlijn",
+		"leerlijn_focus",
+		"leerlijn_inhoudsblok",
+		"leerlijn_subinhoudsblok",
+		"leerlijn_inhoudsrij",
+		"leerlijn_inhoud",
+		"leerlijn_voorbeeld"
+	]
+}

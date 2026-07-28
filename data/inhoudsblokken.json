@@ -1,0 +1,303 @@
+[
+	{
+		"prefix": "1",
+		"title": "Verwonderen en nieuwsgierig zijn",
+		"id": "65a59fcd-a0f7-4f63-9424-e9f195dda522",
+		"leerlijn_subinhoudsblok_id": [
+			"91203e99-b908-4df3-8df0-0e841167567f",
+			"d7d9a8b2-c3ac-493a-bf2d-275861b921d9",
+			"a6f411c5-8715-4ba6-8645-174ff2456279"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "2",
+		"title": "Onderzoeken",
+		"id": "6d3ec0ac-eba7-4fd6-a039-110a5f0c3a6b",
+		"leerlijn_subinhoudsblok_id": [
+			"bb377952-982f-49f8-b044-ec74fc882da0",
+			"3e13b354-c4be-4c71-93a9-2ab709887c47",
+			"c92a6644-46ab-4f66-b890-25d4071757c0"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "3",
+		"title": "Ontwerpen en maken",
+		"id": "4faee9fb-cf89-455f-b188-a9b9d6826b38",
+		"leerlijn_subinhoudsblok_id": [
+			"d0e90c92-2c60-4373-b2bb-229cbf2bf24c",
+			"dab6afde-d11b-48cd-ac3d-cc91d5fb8ebb",
+			"1ae35bdf-2793-468b-8a6b-ea551326960f"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "4",
+		"title": "Denkwijzen en kernconcepten",
+		"id": "10777eaa-c6cc-4ec5-9b94-06718c3cdee7",
+		"leerlijn_subinhoudsblok_id": [
+			"18be3365-597b-4c24-9ab1-38131c1c4a23",
+			"bb3bfa5f-6524-4c0d-814e-a4af59b3b1c6",
+			"74cd8af5-b8f0-49dc-93eb-6a7e9633c8bd"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "5",
+		"title": "De aard van wetenschap en techniek",
+		"id": "bb4b3d63-40b7-4a2b-87f2-a5b108a6e89b",
+		"leerlijn_subinhoudsblok_id": [
+			"75867688-ba4f-476f-857a-94702ac9f000",
+			"f62d740a-7bef-4dbb-8192-2ec5a76140ed",
+			"e639de06-600a-4e6f-b8ff-8550822fffe1"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "1",
+		"title": "Bewegen en krachten",
+		"id": "c3be695a-1164-4b45-bdca-7cdc750fb996",
+		"leerlijn_subinhoudsblok_id": [
+			"b06d6969-5a99-4f6c-9f51-0857202dea78",
+			"e9934107-2bf9-4e84-8c78-ded074c0a2b5",
+			"55212c54-3637-4293-a0c0-7aec3163cea1"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "2",
+		"title": "Energie",
+		"id": "521d7477-4ddf-4c04-8815-7b36e3460eb6",
+		"leerlijn_subinhoudsblok_id": [
+			"bd4b00df-4881-4e4c-a023-c7c919dd0487",
+			"92a0a6ca-b9a3-4ac5-aa46-c2829e7aa913",
+			"fd5fff89-5cfa-41d5-a7ab-40f1ee4c785f"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "3",
+		"title": "Licht en geluid",
+		"id": "2cc99537-993d-41da-b33f-9f67acc4f82b",
+		"leerlijn_subinhoudsblok_id": [
+			"a2eedf9a-0cc6-4fc7-b210-22d7212d94df",
+			"3bc60789-0f1c-4904-8aeb-58c71f40a40f",
+			"3c38ca53-9d59-4700-a6a3-ee71ac0c9782"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "4",
+		"title": "Technische systemen",
+		"id": "47f87444-4312-40f2-9464-1fea4ef9594f",
+		"leerlijn_subinhoudsblok_id": [
+			"930ee384-0d94-4665-b83c-8f3d10c88615",
+			"1e87a1d4-9a45-45e3-b5c4-59c573f065ad",
+			"c9f2657e-7fda-4eae-abd2-3dd5dd2a0ed0"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "5",
+		"title": "Elektriciteit en moderne technologie",
+		"id": "463162f1-acbc-4bc5-b56c-6f3220a5eaaa",
+		"leerlijn_subinhoudsblok_id": [
+			"47e28694-4093-4fec-94fb-c47d01b9c476",
+			"a002f91b-d568-402c-a26a-b8faa7d15cbb",
+			"a570bc30-2f46-49d3-a20a-7b17662d0fd5"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "1",
+		"title": "Organismen om ons heen",
+		"id": "8cd5e7f2-a9f9-4e14-9083-acc285dff3cf",
+		"leerlijn_subinhoudsblok_id": [
+			"d4a55dda-4ce6-40da-bc58-7d071ba2356a",
+			"2c7f437e-5578-40a6-b48d-a96372275187",
+			"7fc10b3f-9b11-4b4f-a13f-92163f9c9ef0"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "2",
+		"title": "Bouw en functie van organismen",
+		"id": "39d7ce97-8cde-4f5f-87cb-3417523529a2",
+		"leerlijn_subinhoudsblok_id": [
+			"93654736-1853-4dc2-94f5-26f654a53e47",
+			"0a9a2032-4986-4fe6-8c49-910115b1b8a5",
+			"cb7669a3-ee5b-4e09-9d6c-7aecc30c7078"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "3",
+		"title": "Groei, voortplanting en erfelijkheid",
+		"id": "669ac733-2651-4e21-a7c2-cbfd0a7da1ba",
+		"leerlijn_subinhoudsblok_id": [
+			"6672ff70-93d5-409e-ac3f-c52c37f90d1d",
+			"0c140ed0-c86c-4bc0-936b-b2d8e93f4623",
+			"32fc3900-0218-4762-a929-86a2e85c4c0e"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "4",
+		"title": "Gezond leven",
+		"id": "e5bba325-7e53-4409-b797-c5bf2e258bb1",
+		"leerlijn_subinhoudsblok_id": [
+			"1c454449-1013-4934-8be1-e2d962c8166e",
+			"c6d71788-35b0-4bf2-a12b-a156a52568ec",
+			"20109f4d-2cd6-4040-84bb-6b0e590e6d9d"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "5",
+		"title": "Relaties en seksuele gezondheid",
+		"id": "51457687-6096-47a5-ac08-dcb85488389a",
+		"leerlijn_subinhoudsblok_id": [
+			"6fcb6d05-f462-443b-b0b2-096ec2c0f3c5",
+			"51dc8404-fe19-4030-a3b4-cb88759f6483",
+			"4858f3d3-9cfc-4bb2-aaae-01ecc084a5a3"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "1",
+		"title": "De aarde in het heelal",
+		"id": "fdd72856-c247-4ab2-87f3-aee37a449ebd",
+		"leerlijn_subinhoudsblok_id": [
+			"2bf95d3f-9b7d-40b2-9ef4-49c3a52eedf1",
+			"ff24ec09-b6f5-4c24-bd16-7c21f85da621",
+			"97b71392-b71d-4ce1-979f-6e4730496b0d"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "2",
+		"title": "De vaste aarde en landschappen",
+		"id": "55bebd29-47e8-433e-8751-32771a248c9e",
+		"leerlijn_subinhoudsblok_id": [
+			"957604ad-0bb4-4f9c-8885-520d6b5646e1",
+			"1ab780de-ea98-40ca-8dd5-0de4aff4e60b",
+			"dbe3a96a-b37e-4f07-8c35-8eff4139284f"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "3",
+		"title": "Water, weer en klimaat",
+		"id": "b773b431-0e21-4018-bd74-8b9f72cb1312",
+		"leerlijn_subinhoudsblok_id": [
+			"5ec8d49e-91ea-4d4b-a426-3b680737501a",
+			"9fff9373-7ef7-424d-950a-2193086c9a80",
+			"9f12e866-64a4-4cfe-a3cf-dec215fd16bc"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "4",
+		"title": "Ecosystemen en biodiversiteit",
+		"id": "d9c14283-7b57-40c8-be70-434b64c44e6e",
+		"leerlijn_subinhoudsblok_id": [
+			"fe6863c8-9f7d-42ad-8b58-1f5430b2f0dd",
+			"e569050d-34fe-481c-8b95-8db4388a5502",
+			"0a1097aa-584b-4f81-9a5c-92239802ba78"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "5",
+		"title": "Mens, natuur en duurzaamheid",
+		"id": "b958581f-1c53-49b1-9073-fdf834057256",
+		"leerlijn_subinhoudsblok_id": [
+			"2e6d74fe-18b5-46c5-8537-2b0bd4ab5460",
+			"153a3419-5a35-471d-99b7-e653d0a51148",
+			"a60c2be7-58b3-42d7-b93e-8001a73b19dc"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": []
+	},
+	{
+		"prefix": "1",
+		"title": "Deeltjes",
+		"id": "9622cf39-ff3b-4fdb-988c-7db959c485ab",
+		"leerlijn_subinhoudsblok_id": [
+			"64730f57-d4a0-40c9-8c1e-d4b88264eb63",
+			"82f481dc-cb90-40ad-b06e-85a5aafd9220",
+			"fe590e81-de66-4209-aa04-d1b597c1a2a0",
+			"a7470016-442d-4cd8-955b-e0521d54f36a",
+			"f8f73f67-9b8e-4cb0-91af-eedbdb266a66"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": [
+			"9eda8ca2-0ebc-44fd-856a-1ad670156afc",
+			"afe76fd6-dfda-45c8-a8bc-f90596c23712",
+			"c73d2eeb-30d0-4261-b72b-00460942078f",
+			"30e6af44-673d-4883-9755-25fabe81601e",
+			"70264ca7-ef0d-475b-919e-4d895ca8efd7",
+			"5e7ac406-0cba-4072-a2ac-7b3c2d8b9a84",
+			"02d166ae-1429-4581-a9e8-223aed902ddf"
+		]
+	},
+	{
+		"prefix": "2",
+		"title": "Processen",
+		"id": "6b22d771-ff08-4b80-9ff0-10cb79033b69",
+		"leerlijn_subinhoudsblok_id": [
+			"f0ab73c2-446b-4303-b929-d42141494bce",
+			"5d834d3d-77d7-4357-87c4-afe7d69bccc3",
+			"a4a8aebc-6c00-4fc6-9d13-f1c19f0422f5",
+			"c4e2ee33-6aba-4f32-87b1-977adc511a52"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": [
+			"7d279a25-36ac-4f57-b8f1-1fa053acc9a0",
+			"7ef56ba4-c11f-47a6-9e47-5def9158f8f8",
+			"178539b2-20b3-4a14-9c1a-6292628831be",
+			"05115158-802a-4c20-9f3e-ccfa88c2ab0d",
+			"75a0461e-0f35-4504-8e4f-be7a2c98ca64",
+			"27e6991d-adb5-4bbb-872a-37a323439157",
+			"c8aa32d6-9ec4-42ab-a4d3-53255e480f58"
+		]
+	},
+	{
+		"prefix": "3",
+		"title": "Veiligheid",
+		"id": "b6be00d3-d5b0-466a-a23e-742a9447023b",
+		"leerlijn_subinhoudsblok_id": [
+			"1a50f0d0-3b52-4967-a1cf-772155795be0"
+		],
+		"fo_kernzin_id": [],
+		"leerlijn_voorbeeld_id": [
+			"c6634599-bfc1-4fb4-ae66-d84304f0acb9",
+			"4dda866a-97e8-41f8-b962-eeae20d07643",
+			"5f934428-8074-49de-b49a-070170216581",
+			"eb931f30-7554-4960-a0a4-486e83030042",
+			"c649b94f-1c35-430b-aaaa-86981f3ca35b",
+			"824c4566-0c5f-446f-89bc-54a231acffaa",
+			"7756eda1-421e-4b80-9d55-f9e953402d6d"
+		]
+	}
+]
